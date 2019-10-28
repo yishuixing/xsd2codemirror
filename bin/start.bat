@@ -1,0 +1,1 @@
+java -Dworkdir="xsd file dir" build\libs\xsd2codemirror-1.0.jar
